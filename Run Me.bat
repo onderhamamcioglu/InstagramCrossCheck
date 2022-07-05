@@ -1,0 +1,1 @@
+java -jar "InstaCross v1.1.jar"
